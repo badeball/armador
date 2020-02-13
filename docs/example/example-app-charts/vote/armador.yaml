@@ -3,7 +3,7 @@ dependencies:
       repo: stable
   - result:
       packaged: false
-      repo: https://github.com/travelaudience/armador.git
+      repo: https://github.com/badeball/armador.git
       pathToChart: docs/example/example-app-charts/result
 overrideValueFiles:
   - values-example.yaml

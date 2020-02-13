@@ -3,7 +3,7 @@ dependencies:
       repo: stable
   - worker:
       packaged: false
-      repo: https://github.com/codefresh-io/example-voting-app.git
+      repo: https://github.com/badeball/example-voting-app.git
       pathToChart: example-voting-app/local-charts/worker
 overrideValueFiles:
   - values-example.yaml

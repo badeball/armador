@@ -8,7 +8,5 @@ additionalValues:
       - docs/example/overrideValues.yaml
 
 cluster:
-  google:
-    name: clusterName
-    zone: europe-west3-b
-    project: gcp-project
+  minikube:
+    contextName: minikube
